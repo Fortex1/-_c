@@ -17,7 +17,8 @@
 #define ріпу_копаю while
 #define дати malloc
 #define забрати free
-#define хата struct 
+#define хата struct
+#define село system
 
 
 #endif //ГУЦУЛЬСЬКИЙ_C_H
